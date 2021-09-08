@@ -48,7 +48,7 @@
 
   [![LinkedIn: Lucas Maceda Miranda](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/lucas-maceda)](https://www.linkedin.com/in/lucas-maceda)
 
-  [![Gmail](https://img.shields.io/badge/-lucasmacedamiranda@gmail.com-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasmacedamiranda@gmail.com)](mailto:lucasmacedamiranda@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasmacedamiranda@gmail.com)](mailto:lucasmacedamiranda@gmail.com)
 
 <!-- [![Linkedin: Lucas Maceda Miranda](https://img.shields.io/badge/-lucasmaceda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-maceda)](https://www.linkedin.com/in/lucas-maceda) -->
 
