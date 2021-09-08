@@ -4,9 +4,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Formado em Análise e desenvolvimento de sistemas na <a href="https://www.unopar.com.br">Universidade Unopar</a>.
+- 💼 &nbsp; Trabalhando como Desenvolvedor Full Stack na <a href="https://www.configure.com.br">Configure Software</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
