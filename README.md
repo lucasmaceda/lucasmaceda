@@ -33,7 +33,7 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=Netbeans-ide&logoColor=2C2255)
+  ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
