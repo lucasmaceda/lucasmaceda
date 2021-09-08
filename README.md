@@ -1,7 +1,4 @@
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e desenvolvimento de sistemas na <a href="https://www.unopar.com.br">Universidade Unopar</a>.
