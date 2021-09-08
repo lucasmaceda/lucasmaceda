@@ -37,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Maceda Miranda](https://img.shields.io/badge/-Lucas Maceda Miranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-maceda)](www.linkedin.com/in/lucas-maceda)
+[![Linkedin: Lucas Maceda Miranda](https://img.shields.io/badge/-lucasmaceda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-maceda)](www.linkedin.com/in/lucas-maceda)
 [![Gmail Badge](https://img.shields.io/badge/-lucasmacedamiranda@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmacedamiranda@gmail.com)](mailto:lucasmacedamiranda@gmail.com)
 
