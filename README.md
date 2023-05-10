@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e desenvolvimento de sistemas na <a href="https://www.unopar.com.br">Universidade Unopar</a>.
-- 💼 &nbsp; Buscando uma nova oportunidade como desenvolvedor android
+- 💼 &nbsp; Buscando uma nova oportunidade como desenvolvedor full stack
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
